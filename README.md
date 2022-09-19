@@ -3,7 +3,7 @@
 Connect to the world | Setup VPN for Linux.
 
 
-# Installation first
+## Installation first
 
 ### 1. Setup WARP Client
 
@@ -31,7 +31,7 @@ alias internet_off='warp-cli disconnect'
 source ~/.zshrc
 ```
 
-# And cheers!!
+## And cheers!!
 
 ### Turn on VPN
 ```sh
