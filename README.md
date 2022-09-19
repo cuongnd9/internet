@@ -8,6 +8,7 @@ Connect to the world | Setup VPN for Linux.
 ### 1. Setup WARP Client
 
 ```sh
+sudo apt install cloudflare-warp
 warp-cli register
 warp-cli connect
 curl https://www.cloudflare.com/cdn-cgi/trace/
